@@ -36,5 +36,4 @@ class Shoe
     @material
   end
   
-
 end  

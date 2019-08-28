@@ -40,6 +40,10 @@ class Shoe
     @condition = condition
   end
   
+  def condition
+    @condition
+  end  
+  
   def cobble
     puts "The shoe has been repaired"
     @condition = "new"
